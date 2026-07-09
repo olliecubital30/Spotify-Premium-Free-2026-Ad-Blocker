@@ -1,0 +1,7 @@
+keyboard
+mouse
+pywin32
+requests
+colorama
+numpy
+psutil
